@@ -84,6 +84,37 @@ event_reservation.db
 
 Database tables are created automatically when the FastAPI application starts.
 
+## Screenshots
+
+### 1. Create Event
+![Create Event](campus-event-reservation-api/screenshots/01.Post-event.png.png)
+
+### 2. Get Events
+![Get Events](campus-event-reservation-api/screenshots/02.Get-Events.png.png)
+
+### 3. Get Event by ID
+![Get Event by ID](campus-event-reservation-api/screenshots/03.Get-events_id.png.png)
+
+### 4. Reservation Successful
+![Reservation Successful](campus-event-reservation-api/screenshots/04.Reservation%20Successful.png)
+
+### 5. Event Availability
+![Event Availability](campus-event-reservation-api/screenshots/05.%20Event%20Availability.png)
+
+### 6. No Seats Available
+![No Seats Available](campus-event-reservation-api/screenshots/06.%20No%20Seats%20Available.png)
+
+### 7. Get Event Reservations
+![Get Event Reservations](campus-event-reservation-api/screenshots/07.Get%20Event%20Reservations.png)
+
+### 8. Reservation Cancelled
+![Reservation Cancelled](campus-event-reservation-api/screenshots/08.Reservation%20Cancelled.png)
+
+### 9. Event Deleted
+![Event Deleted](campus-event-reservation-api/screenshots/09.Event%20Deleted.png)
+
+
+
 ## Project Structure
 
 ```text
@@ -185,6 +216,32 @@ database.db
 ```
 
 Database tables are created automatically when the FastAPI application starts.
+## Screenshots
+
+### 1. Create Item
+![Create Item](campus-lost-found-api/Screenshots/01-post-item.png.png)
+
+### 2. Get Items
+![Get Items](campus-lost-found-api/Screenshots/02-get-items.png.png)
+
+### 3. Get Item by ID
+![Get Item by ID](campus-lost-found-api/Screenshots/03-get-item-by-id.png.png)
+
+### 4. Update Item
+![Update Item](campus-lost-found-api/Screenshots/04-put-item.png.png)
+
+### 5. Delete Item
+![Delete Item](campus-lost-found-api/Screenshots/05-delete-item.png.png)
+
+### 6. Status Filter
+![Status Filter](campus-lost-found-api/Screenshots/06-status-filter.png.png)
+
+### 7. Category Filter
+![Category Filter](campus-lost-found-api/Screenshots/07-category-filter.png.png)
+
+### 8. Validation Error
+![Validation Error](campus-lost-found-api/Screenshots/08-validation-error.png.png)
+
 
 ## Project Structure
 
